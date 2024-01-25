@@ -34,7 +34,9 @@ execution_leads:
 technical_leads:
 - name: Anita Flegg
   github: anita-flegg
-bots: []
+bots: 
+- name: Cryogenics-CI
+  github: Cryogenics-CI
 areas:
 - name: Docs
   approvers:
